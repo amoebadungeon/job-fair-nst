@@ -1,9 +1,7 @@
 <template>
   <section class="hero-banner">
-    <div class="container">
   <div class="container">
       <img src="@/assets/images/hero_banner.jpg" alt="A collage showing logos of past exhibitors and photos from the event.">
-    </div>
     </div>
   </section>
 </template>
@@ -22,6 +20,7 @@ export default {
 .container {
   max-width: 1200px; /* Adjust this width to match your design */
   text-align: center; /* This centers the image within the container */
+  margin: auto;
 }
 
 .container img {

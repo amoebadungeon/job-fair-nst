@@ -20,6 +20,7 @@ export default {
 .container {
   max-width: 1200px; /* Adjust this width to match your design */
   text-align: center; /* This centers the image within the container */
+  margin: auto;
 }
 
 .container img {

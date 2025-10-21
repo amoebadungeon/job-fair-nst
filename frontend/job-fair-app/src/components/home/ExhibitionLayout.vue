@@ -31,9 +31,9 @@
 import ImageModal from "@/components/layout/ImageModal"; // Adjust the path if necessary
 
 // 2. Import images to ensure they are processed correctly by the build system
-import layout1 from '@/assets/images/layout_1.jpg';
-import layout2 from '@/assets/images/layout_2.jpg';
-import layout3 from '@/assets/images/layout_3.jpg';
+import layout1 from '@/assets/images/picc1.jpg';
+import layout2 from '@/assets/images/picc3.jpg';
+import layout3 from '@/assets/images/picc2.jpg';
 import floorPlan from '@/assets/images/floor.jpg';
 
 export default {
